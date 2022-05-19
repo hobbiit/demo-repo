@@ -3,4 +3,4 @@
 
 First readme file!
 
-Adding a new line
+Removed line
